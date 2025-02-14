@@ -2,4 +2,4 @@
 
 ## Receitas
 
-- [Bolo de Milho](receitas/bolo-de-milho.md)
+- [Bolo De Milho](receitas/bolo-de-milho.md)
