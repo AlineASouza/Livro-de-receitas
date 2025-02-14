@@ -1,4 +1,5 @@
 # Bolo de milho com coco
+<img src="imagens/bolo-milho.jpg" alt="Bolo de Milho" width="300"/>
 
 ## Ingredientes
 - 3 ovos
