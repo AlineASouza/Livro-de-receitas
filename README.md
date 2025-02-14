@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto tem como objetivo desenvolver um livro de receitas digital para praticar e aprimorar habilidades no uso de Git e GitHub. Ao longo do projeto, serão utilizados comandos básicos e avançados do Git para controle de versão, além de práticas de colaboração no GitHub. O resultado final será um livro de receitas organizado e versionado através dessas ferramentas.
+Este projeto tem como objetivo desenvolver um livro de receitas digital para praticar e aprimorar habilidades no uso de Git e GitHub. Ao longo do projeto, serão utilizados comandos básicos e avançados do Git para controle de versão, além de práticas de colaboração no GitHub. O resultado final será um livro de receitas organizado e versionado através dessas ferramentas. Todo o projeto e a documentação foram criados em conjunto com o Microsoft Copilot.
 
 ## Estrutura do Projeto
 
