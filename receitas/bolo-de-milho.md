@@ -20,9 +20,3 @@
 ## Dicas e Sugestões
 - Calda de coco com leite condensado fica muito bom!
 - Esperar ficar morno para desenformar.
-
-
-
-
-
-

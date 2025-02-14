@@ -90,4 +90,3 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 
 ## Contato
 Para dúvidas, sugestões ou contribuições, entre em contato pelo e-mail: aln.souz@gmail.com
-
