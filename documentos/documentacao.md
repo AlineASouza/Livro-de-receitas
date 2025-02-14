@@ -13,7 +13,7 @@ Este projeto tem como objetivo desenvolver um livro de receitas digital para pra
 
 ## Conteúdo do Livro de Receitas
 
-Cada receita é armazenada em um arquivo markdown dentro da pasta `receitas/`. O índice de receitas é gerado automaticamente e armazenado no arquivo `indice.md`.
+Cada receita é armazenada em um arquivo markdown dentro da pasta `receitas/`. O índice de receitas é gerado automaticamente e armazenado no arquivo "indice.md".
 
 ### Exemplo de Estrutura de Receita
 
@@ -41,43 +41,44 @@ Python instalado no sistema.
 
 Instruções de Instalação
 a. Clonar o repositório:
-<<Imagem1>>
+![imagem1](https://github.com/user-attachments/assets/c662bc4a-fc0a-47a2-8a97-58b8bcf1f220)
+
 
 b. Configurar Git:
-<<Imagem2>>
+![imagem2](https://github.com/user-attachments/assets/51b98b28-2b85-4b1f-81e9-ed411156201e)
 
 
 ## Como Usar
 ## Adicionar uma Nova Receita
 a. Criar um novo arquivo de receita: Na pasta receitas, crie um novo arquivo markdown para a nova receita. Por exemplo:
-
-<<Imagem3>>
+![imagem3](https://github.com/user-attachments/assets/1f66a27a-f5fa-4bda-916f-c3232f2cfc05)
 
 b. Adicionar os detalhes da receita no arquivo markdown:
-<<Imagem4>>
+![imagem4](https://github.com/user-attachments/assets/89017f6d-ccb3-48f1-9be6-bc6843925000)
 
 c. Executar o script de atualização do índice:
-
-<<Imagem5>>
+![imagem5](https://github.com/user-attachments/assets/c6fb91bf-f447-4c6c-a416-60a6eb1c1eee)
 
 d. Adicionar e comitar as mudanças:
-<<Imagem6>>
+![imagem6](https://github.com/user-attachments/assets/51ce5de3-b8ee-4fb1-a52d-62ca9dbd794f)
 
 ## Como Contribuir
 a. Fork este repositório.
 
 b. Clone seu fork localmente:
-<<Imagem7>> 
+![imagem7](https://github.com/user-attachments/assets/dbd3444c-e2ff-47dc-b7f9-892c33ae75ae)
 
 c. Crie uma nova branch para sua contribuição:
-<<Imagem8>>
+![imagem8](https://github.com/user-attachments/assets/91fa3780-04f4-4d96-85d8-929a1957edb0)
+
 d. Adicione suas receitas ou faça melhorias no projeto.
 
 e. Commit suas mudanças:
-<<imagem9>>
+![imagem9](https://github.com/user-attachments/assets/b51d32e5-0758-4d68-affb-c4a5fddb01e6)
 
 f. Push sua branch:
-<<Imagem10>>
+![imagem10](https://github.com/user-attachments/assets/7c5b97ca-77ca-45c7-bd3e-0773b70dc281)
+
 
 g. Abra um Pull Request no repositório original.
 
