@@ -60,26 +60,30 @@ git clone
 git pull request
 
 ## Como Contribuir
-1.Fork este repositório.
 
-2.Clone seu fork localmente:
-	git clone <URL do seu fork>
+1. Fork este repositório.
+
+2. Clone seu fork localmente:
+  
+git clone <URL do seu fork>
 
 3. Crie uma nova branch para sua contribuição:
+
 git checkout -b minha-contribuicao
 
-
-4.Adicione suas receitas ou faça melhorias no projeto.
+4. Adicione suas receitas ou faça melhorias no projeto.
 
 5. Commit suas mudanças:
-	bash
+   
 	git add .
+
 	git commit -m "Adicionei uma nova receita"
 	
+
 6. Push sua branch:
-	bash
-	git push origin minha-contribuicao
-7.Abra um Pull Request no repositório original.
+git push origin minha-contribuicao
+   
+7. Abra um Pull Request no repositório original.
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
